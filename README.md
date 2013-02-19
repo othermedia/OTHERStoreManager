@@ -45,7 +45,7 @@ By Default, if you do not supply the verification url, verification will be disa
 
 BSD License
 =================
-Copyright © 2012, nxtbgthng GmbH
+Copyright © 2013, Other Media LTD
 
 All rights reserved.
 
